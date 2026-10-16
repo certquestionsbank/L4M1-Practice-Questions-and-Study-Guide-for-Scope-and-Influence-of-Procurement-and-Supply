@@ -1,0 +1,2 @@
+# L4M1-Practice-Questions-and-Study-Guide-for-Scope-and-Influence-of-Procurement-and-Supply
+Procurement decisions affect far more than the purchase price. The CIPS L4M1 module asks learners to examine the value procurement creates, follow the procurement cycle, understand the organization around the function, and account for the different requirements of public, private, and not-for-profit sectors. 
